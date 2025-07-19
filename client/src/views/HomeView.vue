@@ -1,7 +1,9 @@
 <template>
-  <div>
-    <h1>Home Page</h1>
-  </div>
+  <v-container>
+    <h1>GYLE POGI</h1>
+
+
+  </v-container>
 </template>
 
 <script>
