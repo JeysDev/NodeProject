@@ -15,6 +15,12 @@ defineProps({
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
     </h3>
+    <div>
+      <!-- Example usage of mdi icon with Vuetify v-icon component -->
+      <v-icon>mdi-home</v-icon>
+      <v-icon>mdi-account</v-icon>
+      <v-icon>mdi-settings</v-icon>
+    </div>
   </div>
 </template>
 
